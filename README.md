@@ -1,2 +1,2 @@
 # sparse-multiplication
-Optimizing multiplication of sparse matrices
+Analysing sparse matrix multiplication
